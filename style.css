@@ -1,0 +1,12 @@
+#maplebear{
+    width: 50%;
+}
+body{
+    text-align: center;
+    background: linear-gradient(black 0%, red 50%, white 100%);
+}
+.mynavbar{
+    position: sticky;
+    top: 0;
+    z-index: 999999;
+}
